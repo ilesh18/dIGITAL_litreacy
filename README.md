@@ -40,7 +40,7 @@ Reflected on key learnings, including the importance of awareness, caution, and 
 
 ##  Links
 -  **Google Form Quiz:** https://forms.gle/eDpN92oDz2Em3w8z7
--  **GitHub Repository:**https://github.com/ilesh18/dIGITAL_litreacy  
+-  **GitHub Repository:** https://github.com/ilesh18/dIGITAL_litreacy  
 
 ---
 
