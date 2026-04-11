@@ -3,7 +3,6 @@
 ##  Student Details
 - **Name:** Ilesh Kumar  
 - **Registration Number:** 25BAI10018  
-
 ---
 
 ##  Project Overview
