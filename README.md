@@ -3,7 +3,7 @@
 ##  Student Details
 - **Name:** Ilesh Kumar  
 - **Registration Number:** 25BAI10018  
----
+
 
 ##  Project Overview
 This project focuses on building awareness about **digital literacy, online safety, and responsible internet usage** among college students. It covers practical aspects such as cybercrime awareness, safe social media practices, and digital communication skills.
